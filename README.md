@@ -6,7 +6,7 @@ Hello ,This is Mahfuj al Farddin
 
 Skills: Kotlin/Jetpack Compose
 
-- 🔭 I’m currently working on Flutter/Jetpack Compose 
+- 🔭 I’m currently working on Jetpack Compose 
 - 🌱 I’m currently learning Kotlin 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about TTD/MVVM/Motion Layout 
