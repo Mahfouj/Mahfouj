@@ -9,7 +9,7 @@ Skills: Kotlin/Jetpack Compose
 - 🔭 I’m currently working on Jetpack Compose 
 - 🌱 I’m currently learning Kotlin 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about TTD/MVVM/Motion Layout 
+- 💬 Ask me about TDD/MVVM/Motion Layout 
 - 📫 How to reach me: mafouj@outlook.com 
 
 
