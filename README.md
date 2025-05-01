@@ -36,7 +36,7 @@
 
 ### 🌟 Featured Projects
 Here are some of my favorite projects that showcase my work:
-- **📱 [Android App 1](#)**: A brief description of the project highlighting its features and impact.
+- **📱 [Android App 1](#)*https://github.com/Mahfouj/Motion_Layout.git*: A brief description of the project highlighting its features and impact.
 - **🌐 [Android App 2](#)**: Another brief description of a project with its unique aspects.
 
 ---
