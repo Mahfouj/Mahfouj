@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahfouj</h1>
-<h3 align="center">🚀 Android Developer | Kotlin Specialist | Jetpack Compose Enthusiast</h3>
+<h3 align="center">🚀 Android Developer | Kotlin | Jetpack Compose </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Modern+Android+Apps;Passionate+about+Kotlin+%26+Clean+UI;Always+Learning+%26+Innovating" alt="Typing SVG" />
