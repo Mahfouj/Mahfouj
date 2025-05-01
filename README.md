@@ -8,8 +8,8 @@
 ---
 
 ### 🌟 About Me
-- 🌍 **Who Am I?**: A passionate **Android Developer** dedicated to building high-quality, performant, and user-friendly mobile applications.
-- 💻 **Kotlin Expertise**: I specialize in writing clean, maintainable, and scalable code using Kotlin.
+- 🌍 **Who Am I?**:**Android Developer** dedicated to building high-quality, performant, and user-friendly mobile applications.
+- 💻 **Kotlin Expertise**: I specialize in writing clean, maintainable, and scalable code using TDD, MVP, MVVM, Kotlin.
 - 🎨 **Jetpack Compose**: Exploring the future of Android UI with modern, declarative design principles.
 - 🌱 **Learning Never Stops**: Always staying up-to-date with the latest trends and technologies in Android development.
 - ✨ **Vision**: To deliver apps that make a difference and provide an exceptional user experience.
@@ -75,13 +75,6 @@ Here are some of my favorite projects that showcase my work:
 
 ---
 
-### 💡 Quote I Live By
-> _"Code is like humor. When you have to explain it, it’s bad."_ – **Cory House**
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mahfouj/Mahfouj/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 
