@@ -2,14 +2,14 @@
 <h3 align="center">🚀 Android Developer | Kotlin | Jetpack Compose </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Modern+Android+Apps;Passionate+about+Kotlin+%26+Clean+UI;Always+Learning+%26+Innovating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Modern+Android+Apps;Passionate+about+Kotlin+Jetpack Compose+%26+Clean+UI;Always+Learning+%26+Innovating" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 About Me
 - 🌍 **Who Am I?**:**Android Developer** dedicated to building high-quality, performant, and user-friendly mobile applications.
-- 💻 **Kotlin Expertise**: I specialize in writing clean, maintainable, and scalable code using TDD, MVP, MVVM, Kotlin.
+- 💻 **Kotlin Expertise**: I specialize in writing clean, maintainable, and scalable code using TDD, MVI, MVVM,Clean Architecture,Kotlin.
 - 🎨 **Jetpack Compose**: Exploring the future of Android UI with modern, declarative design principles.
 - 🌱 **Learning Never Stops**: Always staying up-to-date with the latest trends and technologies in Android development.
 - ✨ **Vision**: To deliver apps that make a difference and provide an exceptional user experience.
