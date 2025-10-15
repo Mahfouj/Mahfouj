@@ -39,19 +39,7 @@ Here are some of my favorite projects that showcase my work:
 - **📱 [Android App 1](#)*https://github.com/Mahfouj/Motion_Layout.git*: A brief description of the project highlighting its features and impact.
 - **🌐 [Android App 2](#)**: Another brief description of a project with its unique aspects.
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahfouj&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Mahfouj&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfouj&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
+ 
 
 ### 🏆 Achievements
 - ✨ **Completed advanced courses** in Kotlin and Android development.
