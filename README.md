@@ -38,9 +38,10 @@
 Here are some of my favorite projects that showcase my work:
 - **📱 [Android App 1](#)*https://github.com/Mahfouj/Motion_Layout.git*: A brief description of the project highlighting its features and impact.
 - **🌐 [Android App 2](#)*https://github.com/Mahfouj/QrCode-Scanner.git*: Another brief description of a project with its unique aspects.
-
+- **🌐![AiGIF](https://github.com/user-attachments/assets/f57268bf-e8f4-4a1a-a51e-c6db43d723c0)
+ [Android App 3](#)*https://github.com/Mahfouj/AI-Camera-Translator.git*: Another brief description of a project with its unique aspects.
  
-
+ 
 ### 🏆 Achievements
 - ✨ **Completed advanced courses** in Kotlin and Android development.
 - 🚀 **Developed scalable and high-performance Android apps** for real-world use.
